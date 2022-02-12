@@ -41,7 +41,6 @@ export default (options: PluginOptions): Plugin => {
     },
     transform: (src: string, id: string) => {
       if (!id.endsWith('.md')) return null
-      if (!frontMatter.test(src)) return null
 
       const {attributes, body}: Metadata = frontMatter(src)
 

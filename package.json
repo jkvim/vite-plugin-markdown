@@ -1,6 +1,6 @@
 {
-  "name": "@dansvel/vite-plugin-markdown",
-  "version": "2.0.4",
+  "name": "@jkvim/vite-plugin-markdown",
+  "version": "2.0.5",
   "author": "dan",
   "license": "MIT",
   "description": "A plugin for importing markdown files in Vite",
@@ -38,13 +38,13 @@
     "typescript": "^4.5.3",
     "vite": "^2.7.1"
   },
-  "homepage": "https://github.com/dansvel/vite-import-markdown#readme",
+  "homepage": "https://github.com/jkvim/vite-import-markdown#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dansvel/vite-import-markdown.git"
+    "url": "git+https://github.com/jkvim/vite-import-markdown.git"
   },
   "bugs": {
-    "url": "https://github.com/dansvel/vite-import-markdown/issues"
+    "url": "https://github.com/jkvim/vite-import-markdown/issues"
   },
   "files": [
     "dist/"

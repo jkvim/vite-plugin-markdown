@@ -1,6 +1,6 @@
 ---
 title: hello world from markdown
-author: dansvel
+author: jkvim
 ---
 
 ## what is this?

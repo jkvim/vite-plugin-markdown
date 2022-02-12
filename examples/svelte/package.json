@@ -8,7 +8,7 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@dansvel/vite-plugin-markdown": "file:../..",
+    "@jkvim/vite-plugin-markdown": "file:../..",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
     "highlight.js": "^11.3.1",
